@@ -13,7 +13,7 @@ Here is the list of things that I am currently working on:
 # Web projects:
 - [Moja mirovina - Informativni izračun | kalkulator mirovine](https://mojamirovina.com) (Croatian language)
 - [Covid19 Travel Information](https://covid19travel.com)
-- [Uplati me - Generator naloga za nacionalna plaćanja HUB 3A](https://uplatime.com) (Croatian language)
+- [Uplati me - bar kod generator za uplatnice HUB 3A](https://uplatime.com) (Croatian language)
 
 # Android apps (some of):
 - [Fill and Sign PDF Forms for Android](https://binarysolutions.biz/fill-and-sign-pdf-forms-for-android)
