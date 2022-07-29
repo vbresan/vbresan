@@ -22,6 +22,7 @@ Here is the list of things that I am currently working on:
 - [Nautical Calculator for Android](https://nauticalcalculator.eu)
 - [Image Converter for Android](https://play.google.com/store/apps/details?id=biz.binarysolutions.imageconverter.ggl)
 - [Mindfulness Meditation for Android](https://play.google.com/store/apps/details?id=biz.binarysolutions.mindfulnessmeditation)
+- [Euro konverter for Android](https://eurokonverter.com)
 - ...
 
 The complete list of apps is at Google Playstore [here](https://play.google.com/store/apps/developer?id=Binary+Solutions).
