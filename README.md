@@ -34,6 +34,6 @@ Here is the list of things that I am currently working on:
 
 The complete list of apps is at Google Playstore [here](https://play.google.com/store/apps/developer?id=Binary+Solutions).
 
-# WordPress Plugins
+# WordPress Plugins:
 - [SEO Meta Description AI](https://binarysolutions.biz/wordpress-plugins/seo-meta-description-ai/)
 
