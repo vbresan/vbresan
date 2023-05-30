@@ -9,7 +9,7 @@ My name is Viktor Brešan and I am Owner & Software Developer at [Binary Solutio
 - [Viktor Brešan on Twitter](https://twitter.com/viktorbresan)
 - [Viktor Brešan on GitHub Pages](https://vbresan.github.io)
 - [Viktor Brešan on StackOverflow](https://stackoverflow.com/users/96313/viktor-bre%c5%a1an)
-- [Viktor Brešan on Product Hunt](https://www.producthunt.com/@viktor.bresan)
+- [Viktor Brešan on Product Hunt](https://www.producthunt.com/@viktorbresan)
 - [Viktor Brešan on GoodReads](https://www.goodreads.com/viktorbresan)
 - [Viktor Brešan on About.me](https://about.me/viktorbresan)
 - [Viktor Brešan on Linktree](https://linktr.ee/viktorbresan)
