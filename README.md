@@ -11,7 +11,7 @@ I invite you to explore the projects that are available on my GitHub profile. If
 - [Healthy Battery Charging](https://github.com/vbresan/HealthyBatteryCharging) - Prolong the battery life of your android phone by keeping it charged between 40% and 80%
 - [Mindfulness Meditation](https://github.com/vbresan/MindfulnessMeditation/) - An android app for guided mindfulness meditation
 - [Weather Forecast USA](https://github.com/vbresan/WeatherForecastUSA) - 7-day forecast; weather watches, warnings and advisories for any location in US
-- [Euro konverter](https://github.com/vbresan/eurokonverter) - converting Croatian kunas into euros (and vice versa) at a fixed exchange rate
+- [Euro konverter](https://github.com/vbresan/eurokonverter) - Converting Croatian kunas into euros (and vice versa) at a fixed exchange rate
 
 # My personal blog:
 - [Viktor Brešan's Personal Blog](https://viktorbresan.blogspot.com/)
