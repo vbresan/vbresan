@@ -6,6 +6,13 @@ In the spirit of transparency, collaboration and knowledge sharing, I have decid
 
 I invite you to explore the projects that are available on my GitHub profile. If you find them interesting or useful, don't hesitate to show your support or contribute to them. Your input is greatly appreciated.
 
+# Open sourced android apps:
+
+- [Healthy Battery Charging](https://github.com/vbresan/HealthyBatteryCharging) - Prolong the battery life of your android phone by keeping it charged between 40% and 80%
+- [Mindfulness Meditation](https://github.com/vbresan/MindfulnessMeditation/) - An android app for guided mindfulness meditation
+- [Weather Forecast USA](https://github.com/vbresan/WeatherForecastUSA) - 7-day forecast; weather watches, warnings and advisories for any location in US
+- [Euro konverter](https://github.com/vbresan/eurokonverter) - converting Croatian kunas into euros (and vice versa) at a fixed exchange rate
+
 # My personal blog:
 - [Viktor Brešan's Personal Blog](https://viktorbresan.blogspot.com/)
 
@@ -22,28 +29,3 @@ I invite you to explore the projects that are available on my GitHub profile. If
 - [Viktor Brešan on GoodReads](https://www.goodreads.com/viktorbresan)
 - [Viktor Brešan on About.me](https://about.me/viktorbresan)
 - [Viktor Brešan on Linktree](https://linktr.ee/viktorbresan)
-
-<br />
-Here is the list of things that I am currently working on:
-
-# Web projects:
-- [Covid19 Travel Information](https://covid19travel.com)
-- [Moja mirovina - Informativni izračun | kalkulator mirovine](https://mojamirovina.com) (Croatian language)
-- [Uplati me - bar kod generator za uplatnice HUB 3A](https://uplatime.com) (Croatian language)
-- [Novine.eu - vijesti sažete u dva paragrafa](https://novine.eu) (Croatian language)
-
-# Android apps (some of):
-- [Fill and Sign PDF Forms for Android](https://binarysolutions.biz/fill-and-sign-pdf-forms-for-android)
-- [Signature Capture for Android](https://binarysolutions.biz/signature-capture-for-android)
-- [Elevation and Sea Depth for Android](https://play.google.com/store/apps/details?id=biz.binarysolutions.elevation)
-- [Nautical Calculator for Android](https://nauticalcalculator.eu)
-- [Image Converter for Android](https://play.google.com/store/apps/details?id=biz.binarysolutions.imageconverter.ggl)
-- [Mindfulness Meditation for Android](https://play.google.com/store/apps/details?id=biz.binarysolutions.mindfulnessmeditation)
-- [Euro konverter for Android](https://eurokonverter.com)
-- ...
-
-The complete list of apps is at Google Playstore [here](https://play.google.com/store/apps/developer?id=Binary+Solutions).
-
-# WordPress Plugins:
-- [SEO Meta Description AI](https://binarysolutions.biz/wordpress-plugins/seo-meta-description-ai/)
-
