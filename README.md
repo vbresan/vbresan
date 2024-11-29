@@ -8,6 +8,7 @@ I invite you to explore the projects that are available on my GitHub profile. If
 
 # Open sourced android apps:
 
+- [Mindful Attention Awareness Scale (MAAS)](https://github.com/vbresan/MindfulAttentionAwarenessScale) - Find out how mindful you are on a scale of 1 to 6
 - [VAT Calculator](https://github.com/vbresan/VAT_Calculator) - Calculate VAT for any country in the world
 - [Healthy Battery Charging](https://github.com/vbresan/HealthyBatteryCharging) - Prolong the battery life of your android phone by keeping it charged between 40% and 80%
 - [Mindfulness Meditation](https://github.com/vbresan/MindfulnessMeditation) - An android app for guided mindfulness meditation
