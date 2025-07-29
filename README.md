@@ -8,6 +8,7 @@ I invite you to explore the projects that are available on my GitHub profile. If
 
 # Open sourced android apps:
 
+- [Escapa aka Pilot test](https://github.com/vbresan/Escapa) - Once famous internet game ported to Android
 - [Perceived Stress Scale (PSS)](https://github.com/vbresan/PerceivedStressScale) - Find out how stressed you are
 - [Mindful Attention Awareness Scale (MAAS)](https://github.com/vbresan/MindfulAttentionAwarenessScale) - Find out how mindful you are on a scale of 1 to 6
 - [VAT Calculator](https://github.com/vbresan/VAT_Calculator) - Calculate VAT for any country in the world
