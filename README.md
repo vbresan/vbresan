@@ -1,4 +1,4 @@
-Greetings! I am Viktor Brešan, a seasoned software developer with over 25 years of experience in all phases of product development. 
+Greetings! I am Viktor Brešan, a seasoned software engineer with over 25 years of experience in all phases of product development. 
 
 My journey has taken me through a diverse range of companies, from large corporations to mid-sized firms and innovative startups. In 2009, I took a leap of faith and founded [Binary Solutions](https://binarysolutions.biz/) as a solopreneur. This venture has resulted in the creation of numerous Android apps and web applications. These Android apps have collectively amassed millions of downloads and have occasionally topped the charts.
 
